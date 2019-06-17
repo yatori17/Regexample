@@ -1,0 +1,20 @@
+{ "Alcool":{
+    "Alimento":"Etanol","Medicamentos":["Humalog","Lantus","Novolog","Apidra","Lantus SoloStar","Levemir","HumaLOG KwikPen","Basaglar","Toujeo","Glargilin","Veluxus","Humulin 70/30R","Afrezza","Novomix 30","Novorapid",
+        "Fiasp","Humulin N","Humulin R","Novolin 70/30","Novolin N","Novolin R","Toujeo SoloStar","Humalog Mix 25",
+        "NovoLog Mix 70 / 30","Diamicron MR","Janumet","Amaryl","Galvus Met","Tresiba FlexTouch","Tresiba PenFill",
+        "NovoLog PenFill","Isunorm N","Isunorm R","Novopen","Bahiafarma Insulina Humana NPH","Bahiafarma Insulina Humana R",
+        "Insulina Humana Recombinante NPH","Insuliv R","Humulin N NPH","Humalog Mix 50","Humalog Mix 50 KwikPen",
+        "Humulin 50","Humulin 70 / 30","Xultophy","Metformina","Glucophage","Januvia","Victoza","Invokana","Actos",
+        "Glipizida","Byetta","Dapagliflozina","Bydureon","Trayenta","Liraglutide","Pioglitazone","Onglyza","Prandin",
+        "Glibenclamida","Jardiance","Repaglinida","Trulicity","Avandia","Kombiglyze XR","Linagliptina","Glimepirida",
+        "Glimepirida","Saxagliptina","Acarbose","XigDuo XR","Dulaglutida","Empagliflozina","Minidiab","Glucovance"
+        ,"Cloridrato de Metformina + Glibenclamida","Gibeta","Miglitol","Alogliptina","Bromocriptina","Clorpropamida",
+        "Parlodel","Diabinese","Glicorp","Daonil","Glibeneck","Gliconil","Gliconil","Clamiben","Glibexil","Glicamin",
+        "Janumet XR","Jentadueto","Glinape","Trayenta Duo","Nateglinida","Starlix","Nesina","Ozempic","Aglucose","Glucobay",
+        "Rosiglitazona","Adlyxin","Novonorm","Ertugliflozina","Glyxambi","Invokamet","Invokamet XR","Lyxumia","Nesina Pio","Qtern",
+        "Soliqua"]},
+        "Uva":{
+        "Alimento":"Uva","Medicamentos":["Prandin","Novonorm","Repaglinida"]},
+        "Multivitamnico":
+        {"Alimento":"Multivitaminico","Medicamentos":["Cholestagel"]}
+}
